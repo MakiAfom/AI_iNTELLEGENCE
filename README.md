@@ -17,3 +17,4 @@ Management is now interested in finding out how a classification model can lead 
 Create a classification model in Python. Feel free to use libraries such as SkLearn, Keras/Tensorflow or Pytorch. 
 Analyse the model and provide insight into which features/variables influence the outcome of the classification the most: on a global level, and specifically for observation #4 and #20.
 Develop some form of plot or graph with brief comments on your observations.
+![Image](https://github.com/user-attachments/assets/71aa8af3-43ff-4d7d-ab55-455c823f5cc5)
